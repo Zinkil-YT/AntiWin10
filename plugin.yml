@@ -1,0 +1,6 @@
+name: AntiWin10
+main: Zinkil\AntiWin10\Loader
+api: 3.0.0
+version: 1.0.0
+author: Zinkil
+description: "Prevent Windows 10 Players From Joining Your Server."
