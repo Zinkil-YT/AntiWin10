@@ -5,7 +5,7 @@
 - Prevent Windows 10 Players From Joining Your Server
 - Can be used with other plugins
 
-##Imagine:
+## Imagine:
 ![](Win10.png)
 
 <b>Made with ❤ by Zinkil</b>
