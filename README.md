@@ -1,11 +1,11 @@
 # AntiWin10
 **Prevent Windows 10 Players From Joining Your Server.**
 
-## Features:
+## Features
 - Prevent Windows 10 Players From Joining Your Server
 - Can be used with other plugins
 
-## Image:
+## Image
 ![](Win10.png)
 
 <b>Made with ❤ by Zinkil</b>
