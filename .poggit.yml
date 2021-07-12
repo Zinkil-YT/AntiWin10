@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Zinkil-YT/AntiWin10
+build-by-default: true
+branches:
+- main
+projects:
+  AntiWin10:
+    path: ""
+...
