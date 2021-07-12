@@ -5,4 +5,5 @@ branches:
 projects:
   AntiWin10:
     path: ""
+    icon: icon.png
 ...
