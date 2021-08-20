@@ -21,7 +21,7 @@ class Loader extends PluginBase implements Listener{
         $player = $event->getPlayer();
         $packet = $event->getPacket();
         if ($packet instanceof LoginPacket){
-            if ($packet->clientData["DeviceOS"] == 7){ //7 is for Windows10
+            if ($packet->clientData["DeviceOS"] == 7){ //7 is for Windows10 OS
                 $player->kick("§l§eYou are playing on Windows 10\n§r§cYou can't join this server with Win10", false);
             }
         }
