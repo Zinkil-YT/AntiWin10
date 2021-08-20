@@ -1,6 +1,8 @@
 name: AntiWin10
 main: Zinkil\AntiWin10\Loader
 api: 3.0.0
-version: 1.0.0
+version: 1.0.1
+mcpe-protocol: [431, 433, 434, 435, 437, 440, 441, 448]
 author: Zinkil
+website: https://github.com/Zinkil-YT
 description: "Prevent Windows 10 Players From Joining Your Server."
